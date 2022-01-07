@@ -27,11 +27,11 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 - [Java JDK](https://www.oracle.com/java/technologies/downloads/);
 - [Apache Maven](https://maven.apache.org/download.cgi).
 
-<b>Dica:</b> Guia de setup do Projeto em vídeo no cana da da Youtuber [Loiane Groner](https://loiane.training/) `https://www.youtube.com/watch?v=-UpIRFONkjs`. Caso queira customizar o Projeto, é remomendado utilizar algum editor especializado em código como [VSCode com Java](https://code.visualstudio.com/docs/languages/java) ou [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/download/).
+<b>Dica:</b> Vídeo de setup do Projeto no canal da Youtuber [Loiane Groner](https://loiane.training/): `https://youtu.be/-UpIRFONkjs`. Caso queira customizar o Projeto, é remomendado utilizar algum editor especializado em código como: [VSCode com Java](https://code.visualstudio.com/docs/languages/java) e [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/download/).
 
 ### 📀 Para executar o Projeto:
 
-1. Baixe este Repositório, executando o comando Git `git clone https://github.com/aguiardafa/crud-angular`;
+1. Baixe este Repositório, executando o comando Git: `git clone https://github.com/aguiardafa/crud-spring`;
 2. ....
 
 ### 🛠 Tecnologias utilizadas:
